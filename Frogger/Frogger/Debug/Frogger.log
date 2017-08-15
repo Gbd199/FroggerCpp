@@ -1,0 +1,38 @@
+﻿Build started 15/08/2017 12:52:18.
+     1>Project "Z:\yossi_class\Gabriel_Dolberg\New folder\FroggerCpp\Frogger\Frogger\Frogger.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Car.cpp ConsolePrinter.cpp Frog.cpp Game.cpp Log.cpp main.cpp Map.cpp Object.cpp Obstacle.cpp RoadObstacle.cpp "Truck .cpp" Turtle.cpp WaterObstacle.cpp
+         WaterObstacle.cpp
+         Turtle.cpp
+         Truck .cpp
+         RoadObstacle.cpp
+         Obstacle.cpp
+         Object.cpp
+         Map.cpp
+         main.cpp
+         Log.cpp
+         Game.cpp
+         Frog.cpp
+         ConsolePrinter.cpp
+         Car.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\yossi_class\Gabriel_Dolberg\New folder\FroggerCpp\Frogger\Debug\Frogger.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\yossi_class\Gabriel_Dolberg\New folder\FroggerCpp\Frogger\Debug\Frogger.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\yossi_class\Gabriel_Dolberg\New folder\FroggerCpp\Frogger\Debug\Frogger.lib" /MACHINE:X86 Debug\Car.obj
+         Debug\ConsolePrinter.obj
+         Debug\Frog.obj
+         Debug\Game.obj
+         Debug\Log.obj
+         Debug\main.obj
+         Debug\Map.obj
+         Debug\Object.obj
+         Debug\Obstacle.obj
+         Debug\RoadObstacle.obj
+         "Debug\Truck .obj"
+         Debug\Turtle.obj
+         Debug\WaterObstacle.obj
+         Frogger.vcxproj -> Z:\yossi_class\Gabriel_Dolberg\New folder\FroggerCpp\Frogger\Debug\Frogger.exe
+     1>Done Building Project "Z:\yossi_class\Gabriel_Dolberg\New folder\FroggerCpp\Frogger\Frogger\Frogger.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.28
